@@ -1,0 +1,22 @@
+{
+  "name": "problem-solving-paradigm-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "problem1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALTAFE10-Gilang-Ramadhan/Problem-Solving-Paradigm-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALTAFE10-Gilang-Ramadhan/Problem-Solving-Paradigm-1/issues"
+  },
+  "homepage": "https://github.com/ALTAFE10-Gilang-Ramadhan/Problem-Solving-Paradigm-1#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
